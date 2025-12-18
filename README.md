@@ -73,7 +73,7 @@ Tablet screenshot: <img src="lib/Screenshot 2025-12-12 175530.png" width="65%">
 <br>
 <br>
 <br>
-Mobile screenshot: <img src="lib/Screenshot 2025-12-12 175609.png" width="65%">
+Mobile screenshot: <img src="lib/Screenshot 2025-12-12 175609.png" width="45%">
 
 
 
