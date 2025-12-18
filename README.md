@@ -68,8 +68,7 @@ You must have the following installed to run this project:
  * Dart SDK
 Installation & Execution
  * Clone the Repository
-   git clone [https://github.com/Aptech-Flutter-Project-Thr/CampusConnect.git](https://github.com/Aptech-Flutter-Project-Thr/CampusConnect.git)
-cd CampusConnect
+   git clone [https://github.com/Esua325/CampusConnect]
 
  * Get Dependencies
    flutter pub get
@@ -94,11 +93,3 @@ These colors, defined in constants/colors.dart, establish the app's modern dark 
 | Dark Background | #1E1E1E | Primary screen background | <img src="https://www.google.com/search?q=https://via.placeholder.com/20/1E1E1E/000000%3Ftext%3D+" style="border-radius: 4px;"> |
 | Card/Surface | #2C2C2C | Background for panels, cards, and input fields | <img src="https://www.google.com/search?q=https://via.placeholder.com/20/2C2C2C/000000%3Ftext%3D+" style="border-radius: 4px;"> |
 | Light Text | #FFFFFF | Standard text color | <img src="https://www.google.com/search?q=https://via.placeholder.com/20/FFFFFF/000000%3Ftext%3D+" style="border-radius: 4px;"> |
-🛡️ License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-### ⏭️ Final Instructions:
-
-1.  **Create/Open:** Create a file named **`README.md`** in the root of your project directory.
-2.  **Paste:** Paste the entire block of code above into that file.
-3.  **Commit & Push:** Commit and push the `README.md` file to your Git repository.
