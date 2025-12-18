@@ -60,6 +60,22 @@ lib/
 │   └── right.dart
 ├── responsive_layout.dart    # The main logic that handles screen size changes
 └── main.dart                 # Application entry point and initial setup
+```
+## Screenshots on different devices
+
+destop screenshot: <Img src="lib/Screenshot 2025-12-12 175445.png" width="65%">
+<br>
+<br>
+<br>
+<br>
+Tablet screenshot: <img src="lib/Screenshot 2025-12-12 175530.png" width="65%">
+<br>
+<br>
+<br>
+<br>
+Mobile screenshot: <img src="lib/Screenshot 2025-12-12 175609.png" width="65%">
+
+
 
 ▶️ How to Run Locally
 Prerequisites
